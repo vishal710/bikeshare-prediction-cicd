@@ -1,0 +1,7 @@
+__pycache__/
+*.pkl
+*.whl
+*.tar.gz
+dist/
+build/
+venv/
